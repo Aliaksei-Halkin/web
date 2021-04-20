@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background:url("../img/pattern.png");
+    font-family: Calibri;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.title{
+    font-size: 30 px;
+    color: rgb(0, 195, 255);
+}
+.card{
+    width: 350px;
+    float: left;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 10px 10px 10px #ccc;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+
+.card-photo{
+    display: block;
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+   
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(12, 171, 235);
+}
+.card-subtitle{
+    font-size: 20px;
+    text-align: center;
+    color:red;
+}
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
+.price{
+    font-size: 30px;
+    text-align: center;
+    color:red;
+}
